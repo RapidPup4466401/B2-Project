@@ -924,7 +924,7 @@
 		"uniques": ["Consumes [1] [Aluminum]","[+1]% Science [in this city]","Destroyed when the city is captured"],
 	},
 	{
-		"name": "Cobalt Jewelry Manufacturing Plant",
+		"name": "Cobalt Jewelry Manufactory",
 		"maintenance": 3,
 		"cost": 1800,
 		"production": 1,
@@ -934,7 +934,7 @@
 		"uniques": ["Consumes [2] [Cobalt]","Provides [2] [Jewelry]","Destroyed when the city is captured"],
 	},
 	{
-		"name": "Zinc Jewelry Manufacturing Plant",
+		"name": "Zinc Jewelry Manufactory",
 		"maintenance": 2,
 		"cost": 1500,
 		"production": 1,
